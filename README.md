@@ -1,4 +1,4 @@
 # ascifier
 Ascify every image via the web
 
-Use this code to ascify every image you want.
+Note that this is a work in progress
